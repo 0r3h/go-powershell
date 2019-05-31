@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/gorillalabs/go-powershell/utils"
+	"github.com/0r3h/go-powershell/utils"
 	"github.com/juju/errors"
 )
 
