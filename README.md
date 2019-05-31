@@ -1,6 +1,6 @@
 # go-powershell
 
-![License](https://img.shields.io/github/license/0r3h/go-powershell.svg)
+![License](https://img.shields.io/github/license/gorillalabs/go-powershell.svg)
 [![GoDoc](https://godoc.org/github.com/0r3h/go-powershell?status.svg)](https://godoc.org/github.com/0r3h/go-powershell)
 
 This package is inspired by [jPowerShell](https://github.com/profesorfalken/jPowerShell)
